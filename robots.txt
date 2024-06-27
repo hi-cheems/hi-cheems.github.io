@@ -1,0 +1,1 @@
+Sitemap: https://hi-cheems.github.io//jekyll-theme-yat/sitemap.xml
